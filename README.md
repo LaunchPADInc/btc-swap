@@ -1,11 +1,6 @@
-# Ethereum BTC Swap
-[![Build Status](https://travis-ci.org/etherex/btc-swap.svg)](https://travis-ci.org/etherex/btc-swap)
-[![Dependency Status](https://david-dm.org/etherex/btc-swap.svg)](https://david-dm.org/etherex/btc-swap)
-[![devDependency Status](https://david-dm.org/etherex/btc-swap/dev-status.svg)](https://david-dm.org/etherex/btc-swap#info=devDependencies)
-
 ## Installation
 ```
-npm install --save etherex/btc-swap
+npm install --save launchpadinc/btc-swap
 ```
 
 ## Usage
